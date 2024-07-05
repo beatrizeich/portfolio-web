@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+    top: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.autislogic{
+    height: 10%;
+    width: 10%;
+}
+
+.primeiro {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-block-end: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.perolas{
+    width: 10%;
+    height: auto;
+}
+
+.segundo {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-block-end: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toylab {
+    width: 10%;
+    height: auto;
+}
+
+body{
+    background-color: antiquewhite;
+}
